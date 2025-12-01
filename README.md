@@ -1,10 +1,15 @@
-# my-hyprland-config
-config d'Arch hyprland 
-
-
-Voici toute ma config d'hyprland
+# Config d'hyprland arch
 
 
 
+
+# Dépendances :
 
 fonts : ttf-jetbrains-mono-nerd
+nwg-displays
+wofi
+swaybg
+flameshot
+fish
+nwg-look
+hyprlock
