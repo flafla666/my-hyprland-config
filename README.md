@@ -5,7 +5,9 @@
 
 # Dépendances :
 
-fonts : ttf-jetbrains-mono-nerd
+### paru -S
+
+ttf-jetbrains-mono-nerd
 nwg-displays
 wofi
 swaybg
