@@ -15,3 +15,6 @@ flameshot
 fish
 nwg-look
 hyprlock
+equibop-bin
+zen-browser-bin
+vlc-git
