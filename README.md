@@ -1,1 +1,1 @@
-# Config d'hyprland arch
+# Config WM d'arch btw
